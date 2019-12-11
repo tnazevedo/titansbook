@@ -1,0 +1,14 @@
+div.post-list {
+
+  max-width:725px ;
+  height: auto;
+  background: #56FF66;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 2px;
+
+  
+}
+

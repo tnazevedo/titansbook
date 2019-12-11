@@ -1,0 +1,11 @@
+.post-tree {
+  width: 700px;
+  height: 250px;
+  display: flex;
+  background: #fff;
+  border: 1px solid red;
+  margin: 5px 0 5px 0;
+
+ 
+  
+}

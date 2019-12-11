@@ -1,0 +1,27 @@
+
+ul{
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  border:1px solid red;
+  list-style: none;
+  color: #ffff;
+  font-family: 'Lexend Deca',sans-serif;
+
+}
+.perfil {
+  
+  
+ 
+  border: 1px solid green;
+  
+
+}
+
+.icon {
+  color: #fff;
+  align-self: baseline;
+  margin-left: 5px;
+  box-sizing: border-box;
+
+}
